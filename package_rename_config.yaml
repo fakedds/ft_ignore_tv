@@ -1,0 +1,4 @@
+package_rename_config:
+  android:
+    app_name: "\u54AA\u5495\u5FEB\u6E38"
+    package_name: cn.emagsoftware.gamehall

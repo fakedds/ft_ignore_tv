@@ -43,6 +43,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   package_rename: ^1.3.3
+  flutter_launcher_icons: "^0.13.1"
 
 
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -94,18 +95,18 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
 
-package_rename_config:
-  android:
-    app_name: 咪咕快游
-    package_name: cn.emagsoftware.gamehall
-    override_old_package: # (Optional) (String) Use this to delete the old folder structure of MainActivity or to use the existing code with the new package name
-    lang: # (Optional) (String) The android development language {kotlin(default) or java}
+# package_rename_config:
+#   android:
+#     app_name: 咪咕快游
+#     package_name: cn.emagsoftware.gamehall
+#     override_old_package: # (Optional) (String) Use this to delete the old folder structure of MainActivity or to use the existing code with the new package name
+#     lang: # (Optional) (String) The android development language {kotlin(default) or java}
 
 
-icons_launcher:
-  image_path: "assets/migu.jpg"
-  platforms:
-    android:
-      enable: true
-    ios:
-      enable: true
+# icons_launcher:
+#   image_path: "assets/migu.jpg"
+#   platforms:
+#     android:
+#       enable: true
+#     ios:
+#       enable: true
