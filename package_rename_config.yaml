@@ -1,4 +1,4 @@
 package_rename_config:
   android:
-    app_name: "\u54AA\u5495\u5FEB\u6E38"
-    package_name: cn.emagsoftware.gamehall
+    app_name: "\u4E91\u89C6\u542C\u5C0F\u7535\u89C6"
+    package_name: com.xiaodianshi.tv.yst
